@@ -107,6 +107,7 @@ def upsample_layer(bottom, n_channels, name, upscale_factor):
         weights = get_bilinear_filter(filter_shape, upscale_factor)
         deconv = tf.nn.conv2d_transpose(bottom, weights, output_shape,
                                         strides=strides, padding='SAME')
+        deconv.set_shape([None, None, None, n_channels])
 
     return deconv
 
@@ -177,6 +178,9 @@ def train_nn(sess, epochs, batch_size, get_batches_fn, train_op,
     """
     sess.run(tf.global_variables_initializer())
     sess.run(tf.local_variables_initializer())
+
+    if metrics is None:
+        return
 
     with tf.name_scope('metrics'):
         tf.summary.scalar("cost", cross_entropy_loss)
