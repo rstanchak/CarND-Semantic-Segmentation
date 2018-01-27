@@ -1,0 +1,91 @@
+TensorFlow Version: 1.0.1
+Default GPU Device: /gpu:0
+Tests Passed
+Tests Passed
+Tests Passed
+Tests Passed
+Tests Passed
+Batch:    0	Loss: 9266.871	Accuracy: 0.291	Specificity: 0.563	Recall: 0.240
+Batch:   10	Loss: 506.666	Accuracy: 0.792	Specificity: 0.792	Recall: nan
+Batch:   20	Loss: 161.706	Accuracy: 0.576	Specificity: 0.937	Recall: 0.343
+Batch:   30	Loss: 35.004	Accuracy: 0.830	Specificity: 0.885	Recall: 0.634
+Batch:   40	Loss: 20.008	Accuracy: 0.862	Specificity: 0.923	Recall: 0.664
+Batch:   50	Loss: 10.915	Accuracy: 0.870	Specificity: 0.951	Recall: 0.555
+Batch:   60	Loss: 15.262	Accuracy: 0.837	Specificity: 0.984	Recall: 0.580
+Batch:   70	Loss: 15.852	Accuracy: 0.882	Specificity: 0.889	Recall: 0.802
+Epoch    0	Loss: 3080.645	Accuracy: 0.790	Specificity: 0.879	Recall: nan
+Batch:   80	Loss: 11.688	Accuracy: 0.884	Specificity: 0.924	Recall: 0.723
+Batch:   90	Loss: 22.400	Accuracy: 0.865	Specificity: 0.862	Recall: 0.989
+Batch:  100	Loss: 18.573	Accuracy: 0.894	Specificity: 0.991	Recall: 0.690
+Batch:  110	Loss: 30.964	Accuracy: 0.888	Specificity: 0.889	Recall: 0.883
+Batch:  120	Loss: 8.847	Accuracy: 0.916	Specificity: 0.948	Recall: 0.764
+Batch:  130	Loss: 13.521	Accuracy: 0.864	Specificity: 0.968	Recall: 0.606
+Batch:  140	Loss: 5.882	Accuracy: 0.896	Specificity: 0.972	Recall: 0.651
+Epoch    1	Loss: 7.826	Accuracy: 0.861	Specificity: 0.921	Recall: nan
+Batch:  150	Loss: 5.113	Accuracy: 0.887	Specificity: 0.971	Recall: 0.626
+Batch:  160	Loss: 6.071	Accuracy: 0.871	Specificity: 0.978	Recall: 0.492
+Batch:  170	Loss: 5.732	Accuracy: 0.900	Specificity: 0.925	Recall: 0.790
+Batch:  180	Loss: 6.941	Accuracy: 0.851	Specificity: 0.837	Recall: 0.940
+Batch:  190	Loss: 20.605	Accuracy: 0.738	Specificity: 0.992	Recall: 0.377
+Batch:  200	Loss: 9.429	Accuracy: 0.860	Specificity: 0.992	Recall: 0.579
+Batch:  210	Loss: 3.874	Accuracy: 0.893	Specificity: 0.948	Recall: 0.724
+Epoch    2	Loss: 2.230	Accuracy: 0.872	Specificity: 0.924	Recall: 0.769
+Batch:  220	Loss: 2.256	Accuracy: 0.943	Specificity: 0.949	Recall: 0.914
+Batch:  230	Loss: 2.130	Accuracy: 0.888	Specificity: 0.965	Recall: 0.569
+Batch:  240	Loss: 1.602	Accuracy: 0.903	Specificity: 0.903	Recall: 0.896
+Batch:  250	Loss: 0.951	Accuracy: 0.939	Specificity: 0.956	Recall: 0.864
+Batch:  260	Loss: 1.484	Accuracy: 0.907	Specificity: 0.912	Recall: 0.885
+Batch:  270	Loss: 1.047	Accuracy: 0.922	Specificity: 0.943	Recall: 0.784
+Batch:  280	Loss: 1.362	Accuracy: 0.904	Specificity: 0.941	Recall: 0.759
+Batch:  290	Loss: 1.069	Accuracy: 0.903	Specificity: 0.938	Recall: 0.772
+Epoch    3	Loss: 0.479	Accuracy: 0.899	Specificity: 0.938	Recall: 0.755
+Batch:  300	Loss: 1.384	Accuracy: 0.894	Specificity: 0.987	Recall: 0.667
+Batch:  310	Loss: 1.131	Accuracy: 0.896	Specificity: 0.977	Recall: 0.642
+Batch:  320	Loss: 0.684	Accuracy: 0.911	Specificity: 0.952	Recall: 0.680
+Batch:  330	Loss: 1.040	Accuracy: 0.916	Specificity: 0.920	Recall: 0.895
+Batch:  340	Loss: 0.886	Accuracy: 0.894	Specificity: 0.972	Recall: 0.641
+Batch:  350	Loss: 0.953	Accuracy: 0.896	Specificity: 0.954	Recall: 0.707
+Batch:  360	Loss: 0.779	Accuracy: 0.898	Specificity: 0.956	Recall: 0.695
+Epoch    4	Loss: 0.283	Accuracy: 0.894	Specificity: 0.935	Recall: 0.754
+Batch:  370	Loss: 1.209	Accuracy: 0.899	Specificity: 0.954	Recall: 0.682
+Batch:  380	Loss: 0.652	Accuracy: 0.906	Specificity: 0.937	Recall: 0.809
+Batch:  390	Loss: 0.653	Accuracy: 0.899	Specificity: 0.961	Recall: 0.651
+Batch:  400	Loss: 0.510	Accuracy: 0.930	Specificity: 0.950	Recall: 0.829
+Batch:  410	Loss: 1.201	Accuracy: 0.891	Specificity: 0.888	Recall: 0.911
+Batch:  420	Loss: 0.555	Accuracy: 0.927	Specificity: 0.949	Recall: 0.839
+Batch:  430	Loss: 0.890	Accuracy: 0.881	Specificity: 0.900	Recall: 0.794
+Epoch    5	Loss: 0.194	Accuracy: 0.900	Specificity: 0.937	Recall: 0.766
+Batch:  440	Loss: 0.711	Accuracy: 0.905	Specificity: 0.916	Recall: 0.849
+Batch:  450	Loss: 0.962	Accuracy: 0.892	Specificity: 0.938	Recall: 0.745
+Batch:  460	Loss: 0.599	Accuracy: 0.892	Specificity: 0.916	Recall: 0.801
+Batch:  470	Loss: 0.659	Accuracy: 0.881	Specificity: 0.968	Recall: 0.627
+Batch:  480	Loss: 0.821	Accuracy: 0.893	Specificity: 0.927	Recall: 0.755
+Batch:  490	Loss: 0.843	Accuracy: 0.890	Specificity: 0.964	Recall: 0.680
+Batch:  500	Loss: 0.419	Accuracy: 0.919	Specificity: 0.953	Recall: 0.759
+Batch:  510	Loss: 0.740	Accuracy: 0.870	Specificity: 0.851	Recall: 0.958
+Epoch    6	Loss: 0.164	Accuracy: 0.900	Specificity: 0.937	Recall: 0.760
+Batch:  520	Loss: 0.764	Accuracy: 0.877	Specificity: 0.970	Recall: 0.573
+Batch:  530	Loss: 0.570	Accuracy: 0.912	Specificity: 0.927	Recall: 0.844
+Batch:  540	Loss: 0.856	Accuracy: 0.859	Specificity: 0.938	Recall: 0.611
+Batch:  550	Loss: 0.452	Accuracy: 0.908	Specificity: 0.979	Recall: 0.695
+Batch:  560	Loss: 0.699	Accuracy: 0.880	Specificity: 0.884	Recall: 0.863
+Batch:  570	Loss: 0.339	Accuracy: 0.924	Specificity: 0.942	Recall: 0.815
+Batch:  580	Loss: 0.595	Accuracy: 0.894	Specificity: 0.892	Recall: 0.905
+Epoch    7	Loss: 0.144	Accuracy: 0.899	Specificity: 0.938	Recall: 0.763
+Batch:  590	Loss: 0.325	Accuracy: 0.927	Specificity: 0.975	Recall: 0.771
+Batch:  600	Loss: 0.532	Accuracy: 0.906	Specificity: 0.906	Recall: 0.906
+Batch:  610	Loss: 0.370	Accuracy: 0.905	Specificity: 0.920	Recall: 0.830
+Batch:  620	Loss: 0.503	Accuracy: 0.902	Specificity: 0.908	Recall: 0.880
+Batch:  630	Loss: 0.326	Accuracy: 0.918	Specificity: 0.946	Recall: 0.822
+Batch:  640	Loss: 0.388	Accuracy: 0.898	Specificity: 0.924	Recall: 0.800
+Batch:  650	Loss: 0.342	Accuracy: 0.907	Specificity: 0.943	Recall: 0.727
+Epoch    8	Loss: 0.117	Accuracy: 0.902	Specificity: 0.939	Recall: 0.765
+Batch:  660	Loss: 0.269	Accuracy: 0.923	Specificity: 0.975	Recall: 0.771
+Batch:  670	Loss: 0.303	Accuracy: 0.923	Specificity: 0.977	Recall: 0.668
+Batch:  680	Loss: 0.793	Accuracy: 0.891	Specificity: 0.891	Recall: 0.887
+Batch:  690	Loss: 0.340	Accuracy: 0.905	Specificity: 0.971	Recall: 0.683
+Batch:  700	Loss: 0.411	Accuracy: 0.884	Specificity: 0.929	Recall: 0.683
+Batch:  710	Loss: 0.672	Accuracy: 0.884	Specificity: 0.873	Recall: 0.938
+Batch:  720	Loss: 0.451	Accuracy: 0.888	Specificity: 0.981	Recall: 0.646
+Epoch    9	Loss: 0.112	Accuracy: 0.898	Specificity: 0.937	Recall: 0.770
+Training Finished. Saving test images to: ./runs/1517070268.2130392
